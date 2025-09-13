@@ -35,13 +35,5 @@ I'm a student in my 7th semester at Fontys ICT, almost done with my studies and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaydenHato&show_icons=true&theme=calm" alt="JaydenHato's GitHub Stats" height="165">
-</p>
-
----
-
 Thanks for checking out my profile!  
 Whether you're here for collaboration, code, or just to connect, feel free to reach out.
